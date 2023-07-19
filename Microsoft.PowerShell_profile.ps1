@@ -13,7 +13,7 @@ set-alias desktop "Desktop.ps1"
 #Set-Theme ParadoxGlucose
 #Set-PoshPrompt -theme "D:\Dropbox\poshv3.json"
 
-oh-my-posh --init --shell pwsh --config "D:\Dropbox\poshv3.json" | Invoke-Expression
+oh-my-posh --init --shell pwsh --config "<THEME_CONFIG_PATH>" | Invoke-Expression
 
 
 Register-ArgumentCompleter -Native -CommandName winget -ScriptBlock {
