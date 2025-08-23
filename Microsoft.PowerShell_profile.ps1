@@ -8,13 +8,13 @@ if ($host.Name -eq 'ConsoleHost')
 #Import-Module PSColors
 #Import-Module posh-git
 Import-Module -Name Terminal-Icons
-Import-Module oh-my-posh
-set-alias desktop "Desktop.ps1"
+# Import-Module oh-my-posh
+# set-alias desktop "Desktop.ps1"
+set-alias open "ii"
 #Set-Theme ParadoxGlucose
 #Set-PoshPrompt -theme "D:\Dropbox\poshv3.json"
 
 oh-my-posh --init --shell pwsh --config "<THEME_CONFIG_PATH>" | Invoke-Expression
-
 
 Register-ArgumentCompleter -Native -CommandName winget -ScriptBlock {
     param($wordToComplete, $commandAst, $cursorPosition)
