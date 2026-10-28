@@ -1,0 +1,1025 @@
+aa | aa | ea | ae
+ab | ba | eb | be
+ac | ca | ec | ce
+ad | da | ed | de
+ae | ea | ee | ee
+af | fa | ef | fe
+ag | ga | eg | ge
+ah | ha | eh | he
+ai | ia | ei | ie
+aj | ja | ej | je
+ak | ka | ek | ke
+al | la | el | le
+am | ma | em | me
+an | na | en | ne
+ao | oa | eo | oe
+ap | pa | ep | pe
+aq | qa | eq | qe
+ar | ra | er | re
+as | sa | es | se
+at | ta | et | te
+au | ua | eu | ue
+av | va | ev | ve
+aw | wa | ew | we
+ax | xa | ex | xe
+ay | ya | ey | ye
+az | za | ez | ze
+
+ia | ai | oa | ao
+ib | bi | ob | bo
+ic | ci | oc | co
+id | di | od | do
+ie | ei | oe | eo
+if | fi | of | fo
+ig | gi | og | go
+ih | hi | oh | ho
+ii | ii | oi | io
+ij | ji | oj | jo
+ik | ki | ok | ko
+il | li | ol | lo
+im | mi | om | mo
+in | ni | on | no
+io | oi | oo | oo
+ip | pi | op | po
+iq | qi | oq | qo
+ir | ri | or | ro
+is | si | os | so
+it | ti | ot | to
+iu | ui | ou | uo
+iv | vi | ov | vo
+iw | wi | ow | wo
+ix | xi | ox | xo
+iy | yi | oy | yo
+iz | zi | oz | zo
+
+ua | au
+ub | bu
+uc | cu
+ud | du
+ue | eu
+uf | fu
+ug | gu
+uh | hu
+ui | iu
+uj | ju
+uk | ku
+ul | lu
+um | mu
+un | nu
+uo | ou
+up | pu
+uq | qu
+ur | ru
+us | su
+ut | tu
+uu | uu
+uv | vu
+uw | wu
+ux | xu
+uy | yu
+uz | zu
+
+la | al | ta | at
+lb | bl | tb | bt
+lc | cl | tc | ct
+ld | dl | td | dt
+le | el | te | et
+lf | fl | tf | ft
+lg | gl | tg | gt
+lh | hl | th | ht
+li | il | ti | it
+lj | jl | tj | jt
+lk | kl | tk | kt
+ll | ll | tl | lt
+lm | ml | tm | mt
+ln | nl | tn | nt
+lo | ol | to | ot
+lp | pl | tp | pt
+lq | ql | tq | qt
+lr | rl | tr | rt
+ls | sl | ts | st
+lt | tl | tt | tt
+lu | ul | tu | ut
+lv | vl | tv | vt
+lw | wl | tw | wt
+lx | xl | tx | xt
+ly | yl | ty | yt
+lz | zl | tz | zt
+
+ra | ar
+rb | br
+rc | cr
+rd | dr
+re | er
+rf | fr
+rg | gr
+rh | hr
+ri | ir
+rj | jr
+rk | kr
+rl | lr
+rm | mr
+rn | nr
+ro | or
+rp | pr
+rq | qr
+rr | rr
+rs | sr
+rt | tr
+ru | ur
+rv | vr
+rw | wr
+rx | xr
+ry | yr
+rz | zr
+
+ja | aj
+jb | bj
+jc | cj
+jd | dj
+je | ej
+jf | fj
+jg | gj
+jh | hj
+ji | ij
+jj | jj
+jk | kj
+jl | lj
+jm | mj
+jn | nj
+jo | oj
+jp | pj
+jq | qj
+jr | rj
+js | sj
+jt | tj
+ju | uj
+jv | vj
+jw | wj
+jx | xj
+jy | yj
+jz | zj
+
+Aa | aA | Aa | aA
+Ab | aB | Ba | bA
+Ac | aC | Ca | cA
+Ad | aD | Da | dA
+Ae | aE | Ea | eA
+Af | aF | Fa | fA
+Ag | aG | Ga | gA
+Ah | aH | Ha | hA
+Ai | aI | Ia | iA
+Aj | aJ | Ja | jA
+Ak | aK | Ka | kA
+Al | aL | La | lA
+Am | aM | Ma | mA
+An | aN | Na | nA
+Ao | aO | Oa | oA
+Ap | aP | Pa | pA
+Aq | aQ | Qa | qA
+Ar | aR | Ra | rA
+As | aS | Sa | sA
+At | aT | Ta | tA
+Au | aU | Ua | uA
+Av | aV | Va | vA
+Aw | aW | Wa | wA
+Ax | aX | Xa | xA
+Ay | aY | Ya | yA
+Az | aZ | Za | zA
+
+Ea | eA | Ae | aE
+Eb | eB | Be | bE
+Ec | eC | Ce | cE
+Ed | eD | De | dE
+Ee | eE | Ee | eE
+Ef | eF | Fe | fE
+Eg | eG | Ge | gE
+Eh | eH | He | hE
+Ei | eI | Ie | iE
+Ej | eJ | Je | jE
+Ek | eK | Ke | kE
+El | eL | Le | lE
+Em | eM | Me | mE
+En | eN | Ne | nE
+Eo | eO | Oe | oE
+Ep | eP | Pe | pE
+Eq | eQ | Qe | qE
+Er | eR | Re | rE
+Es | eS | Se | sE
+Et | eT | Te | tE
+Eu | eU | Ue | uE
+Ev | eV | Ve | vE
+Ew | eW | We | wE
+Ex | eX | Xe | xE
+Ey | eY | Ye | yE
+Ez | eZ | Ze | zE
+
+Ia | iA | Ai | aI
+Ib | iB | Bi | bI
+Ic | iC | Ci | cI
+Id | iD | Di | dI
+Ie | iE | Ei | eI
+If | iF | Fi | fI
+Ig | iG | Gi | gI
+Ih | iH | Hi | hI
+Ii | iI | Ii | iI
+Ij | iJ | Ji | jI
+Ik | iK | Ki | kI
+Il | iL | Li | lI
+Im | iM | Mi | mI
+In | iN | Ni | nI
+Io | iO | Oi | oI
+Ip | iP | Pi | pI
+Iq | iQ | Qi | qI
+Ir | iR | Ri | rI
+Is | iS | Si | sI
+It | iT | Ti | tI
+Iu | iU | Ui | uI
+Iv | iV | Vi | vI
+Iw | iW | Wi | wI
+Ix | iX | Xi | xI
+Iy | iY | Yi | yI
+Iz | iZ | Zi | zI
+
+Oa | oA | Ao | aO
+Ob | oB | Bo | bO
+Oc | oC | Co | cO
+Od | oD | Do | dO
+Oe | oE | Eo | eO
+Of | oF | Fo | fO
+Og | oG | Go | gO
+Oh | oH | Ho | hO
+Oi | oI | Io | iO
+Oj | oJ | Jo | jO
+Ok | oK | Ko | kO
+Ol | oL | Lo | lO
+Om | oM | Mo | mO
+On | oN | No | nO
+Oo | oO | Oo | oO
+Op | oP | Po | pO
+Oq | oQ | Qo | qO
+Or | oR | Ro | rO
+Os | oS | So | sO
+Ot | oT | To | tO
+Ou | oU | Uo | uO
+Ov | oV | Vo | vO
+Ow | oW | Wo | wO
+Ox | oX | Xo | xO
+Oy | oY | Yo | yO
+Oz | oZ | Zo | zO
+
+Ua | uA | Au | aU
+Ub | uB | Bu | bU
+Uc | uC | Cu | cU
+Ud | uD | Du | dU
+Ue | uE | Eu | eU
+Uf | uF | Fu | fU
+Ug | uG | Gu | gU
+Uh | uH | Hu | hU
+Ui | uI | Iu | iU
+Uj | uJ | Ju | jU
+Uk | uK | Ku | kU
+Ul | uL | Lu | lU
+Um | uM | Mu | mU
+Un | uN | Nu | nU
+Uo | uO | Ou | oU
+Up | uP | Pu | pU
+Uq | uQ | Qu | qU
+Ur | uR | Ru | rU
+Us | uS | Su | sU
+Ut | uT | Tu | tU
+Uu | uU | Uu | uU
+Uv | uV | Vu | vU
+Uw | uW | Wu | wU
+Ux | uX | Xu | xU
+Uy | uY | Yu | yU
+Uz | uZ | Zu | zU
+
+La | lA | Al | aL
+Lb | lB | Bl | bL
+Lc | lC | Cl | cL
+Ld | lD | Dl | dL
+Le | lE | El | eL
+Lf | lF | Fl | fL
+Lg | lG | Gl | gL
+Lh | lH | Hl | hL
+Li | lI | Il | iL
+Lj | lJ | Jl | jL
+Lk | lK | Kl | kL
+Ll | lL | Ll | lL
+Lm | lM | Ml | mL
+Ln | lN | Nl | nL
+Lo | lO | Ol | oL
+Lp | lP | Pl | pL
+Lq | lQ | Ql | qL
+Lr | lR | Rl | rL
+Ls | lS | Sl | sL
+Lt | lT | Tl | tL
+Lu | lU | Ul | uL
+Lv | lV | Vl | vL
+Lw | lW | Wl | wL
+Lx | lX | Xl | xL
+Ly | lY | Yl | yL
+Lz | lZ | Zl | zL
+
+Ta | tA | At | aT
+Tb | tB | Bt | bT
+Tc | tC | Ct | cT
+Td | tD | Dt | dT
+Te | tE | Et | eT
+Tf | tF | Ft | fT
+Tg | tG | Gt | gT
+Th | tH | Ht | hT
+Ti | tI | It | iT
+Tj | tJ | Jt | jT
+Tk | tK | Kt | kT
+Tl | tL | Lt | lT
+Tm | tM | Mt | mT
+Tn | tN | Nt | nT
+To | tO | Ot | oT
+Tp | tP | Pt | pT
+Tq | tQ | Qt | qT
+Tr | tR | Rt | rT
+Ts | tS | St | sT
+Tt | tT | Tt | tT
+Tu | tU | Ut | uT
+Tv | tV | Vt | vT
+Tw | tW | Wt | wT
+Tx | tX | Xt | xT
+Ty | tY | Yt | yT
+Tz | tZ | Zt | zT
+
+Fa | fA | Af | aF
+Fb | fB | Bf | bF
+Fc | fC | Cf | cF
+Fd | fD | Df | dF
+Fe | fE | Ef | eF
+Ff | fF | Ff | fF
+Fg | fG | Gf | gF
+Fh | fH | Hf | hF
+Fi | fI | If | iF
+Fj | fJ | Jf | jF
+Fk | fK | Kf | kF
+Fl | fL | Lf | lF
+Fm | fM | Mf | mF
+Fn | fN | Nf | nF
+Fo | fO | Of | oF
+Fp | fP | Pf | pF
+Fq | fQ | Qf | qF
+Fr | fR | Rf | rF
+Fs | fS | Sf | sF
+Ft | fT | Tf | tF
+Fu | fU | Uf | uF
+Fv | fV | Vf | vF
+Fw | fW | Wf | wF
+Fx | fX | Xf | xF
+Fy | fY | Yf | yF
+Fz | fZ | Zf | zF
+
+Ra | rA | Ar | aR
+Rb | rB | Br | bR
+Rc | rC | Cr | cR
+Rd | rD | Dr | dR
+Re | rE | Er | eR
+Rf | rF | Fr | fR
+Rg | rG | Gr | gR
+Rh | rH | Hr | hR
+Ri | rI | Ir | iR
+Rj | rJ | Jr | jR
+Rk | rK | Kr | kR
+Rl | rL | Lr | lR
+Rm | rM | Mr | mR
+Rn | rN | Nr | nR
+Ro | rO | Or | oR
+Rp | rP | Pr | pR
+Rq | rQ | Qr | qR
+Rr | rR | Rr | rR
+Rs | rS | Sr | sR
+Rt | rT | Tr | tR
+Ru | rU | Ur | uR
+Rv | rV | Vr | vR
+Rw | rW | Wr | wR
+Rx | rX | Xr | xR
+Ry | rY | Yr | yR
+Rz | rZ | Zr | zR
+
+Ja | jA | Aj | aJ
+Jb | jB | Bj | bJ
+Jc | jC | Cj | cJ
+Jd | jD | Dj | dJ
+Je | jE | Ej | eJ
+Jf | jF | Fj | fJ
+Jg | jG | Gj | gJ
+Jh | jH | Hj | hJ
+Ji | jI | Ij | iJ
+Jj | jJ | Jj | jJ
+Jk | jK | Kj | kJ
+Jl | jL | Lj | lJ
+Jm | jM | Mj | mJ
+Jn | jN | Nj | nJ
+Jo | jO | Oj | oJ
+Jp | jP | Pj | pJ
+Jq | jQ | Qj | qJ
+Jr | jR | Rj | rJ
+Js | jS | Sj | sJ
+Jt | jT | Tj | tJ
+Ju | jU | Uj | uJ
+Jv | jV | Vj | vJ
+Jw | jW | Wj | wJ
+Jx | jX | Xj | xJ
+Jy | jY | Yj | yJ
+Jz | jZ | Zj | zJ
+
+'A | A'
+'B | B'
+'C | C'
+'D | D'
+'E | E'
+'F | F'
+'G | G'
+'H | H'
+'I | I'
+'J | J'
+'K | K'
+'L | L'
+'M | M'
+'N | N'
+'O | O'
+'P | P'
+'Q | Q'
+'R | R'
+'S | S'
+'T | T'
+'U | U'
+'V | V'
+'W | W'
+'X | X'
+'Y | Y'
+'Z | Z'
+
+"A | A"
+"B | B"
+"C | C"
+"D | D"
+"E | E"
+"F | F"
+"G | G"
+"H | H"
+"I | I"
+"J | J"
+"K | K"
+"L | L"
+"M | M"
+"N | N"
+"O | O"
+"P | P"
+"Q | Q"
+"R | R"
+"S | S"
+"T | T"
+"U | U"
+"V | V"
+"W | W"
+"X | X"
+"Y | Y"
+"Z | Z"
+
+?A | A?
+?B | B?
+?C | C?
+?D | D?
+?E | E?
+?F | F?
+?G | G?
+?H | H?
+?I | I?
+?J | J?
+?K | K?
+?L | L?
+?M | M?
+?N | N?
+?O | O?
+?P | P?
+?Q | Q?
+?R | R?
+?S | S?
+?T | T?
+?U | U?
+?V | V?
+?W | W?
+?X | X?
+?Y | Y?
+?Z | Z?
+
+!A | A!
+!B | B!
+!C | C!
+!D | D!
+!E | E!
+!F | F!
+!G | G!
+!H | H!
+!I | I!
+!J | J!
+!K | K!
+!L | L!
+!M | M!
+!N | N!
+!O | O!
+!P | P!
+!Q | Q!
+!R | R!
+!S | S!
+!T | T!
+!U | U!
+!V | V!
+!W | W!
+!X | X!
+!Y | Y!
+!Z | Z!
+
+'a | a'
+'b | b'
+'c | c'
+'d | d'
+'e | e'
+'f | f'
+'g | g'
+'h | h'
+'i | i'
+'j | j'
+'k | k'
+'l | l'
+'m | m'
+'n | n'
+'o | o'
+'p | p'
+'q | q'
+'r | r'
+'s | s'
+'t | t'
+'u | u'
+'v | v'
+'w | w'
+'x | x'
+'y | y'
+'z | z'
+
+"a | a"
+"b | b"
+"c | c"
+"d | d"
+"e | e"
+"f | f"
+"g | g"
+"h | h"
+"i | i"
+"j | j"
+"k | k"
+"l | l"
+"m | m"
+"n | n"
+"o | o"
+"p | p"
+"q | q"
+"r | r"
+"s | s"
+"t | t"
+"u | u"
+"v | v"
+"w | w"
+"x | x"
+"y | y"
+"z | z"
+
+?a | a?
+?b | b?
+?c | c?
+?d | d?
+?e | e?
+?f | f?
+?g | g?
+?h | h?
+?i | i?
+?j | j?
+?k | k?
+?l | l?
+?m | m?
+?n | n?
+?o | o?
+?p | p?
+?q | q?
+?r | r?
+?s | s?
+?t | t?
+?u | u?
+?v | v?
+?w | w?
+?x | x?
+?y | y?
+?z | z?
+
+!a | a!
+!b | b!
+!c | c!
+!d | d!
+!e | e!
+!f | f!
+!g | g!
+!h | h!
+!i | i!
+!j | j!
+!k | k!
+!l | l!
+!m | m!
+!n | n!
+!o | o!
+!p | p!
+!q | q!
+!r | r!
+!s | s!
+!t | t!
+!u | u!
+!v | v!
+!w | w!
+!x | x!
+!y | y!
+!z | z!
+
+(a | a)
+(b | b)
+(c | c)
+(d | d)
+(e | e)
+(f | f)
+(g | g)
+(h | h)
+(i | i)
+(j | j)
+(k | k)
+(l | l)
+(m | m)
+(n | n)
+(o | o)
+(p | p)
+(q | q)
+(r | r)
+(s | s)
+(t | t)
+(u | u)
+(v | v)
+(w | w)
+(x | x)
+(y | y)
+(z | z)
+
+{a | a}
+{b | b}
+{c | c}
+{d | d}
+{e | e}
+{f | f}
+{g | g}
+{h | h}
+{i | i}
+{j | j}
+{k | k}
+{l | l}
+{m | m}
+{n | n}
+{o | o}
+{p | p}
+{q | q}
+{r | r}
+{s | s}
+{t | t}
+{u | u}
+{v | v}
+{w | w}
+{x | x}
+{y | y}
+{z | z}
+
+[a | a]
+[b | b]
+[c | c]
+[d | d]
+[e | e]
+[f | f]
+[g | g]
+[h | h]
+[i | i]
+[j | j]
+[k | k]
+[l | l]
+[m | m]
+[n | n]
+[o | o]
+[p | p]
+[q | q]
+[r | r]
+[s | s]
+[t | t]
+[u | u]
+[v | v]
+[w | w]
+[x | x]
+[y | y]
+[z | z]
+
+10 | 01
+20 | 02
+30 | 03
+40 | 04
+50 | 05
+60 | 06
+70 | 07
+80 | 08
+90 | 09
+00 | 00
+
+11 | 11
+21 | 12
+31 | 13
+41 | 14
+51 | 15
+61 | 16
+71 | 17
+81 | 18
+91 | 19
+01 | 10
+
+12 | 21
+22 | 22
+32 | 23
+42 | 24
+52 | 25
+62 | 26
+72 | 27
+82 | 28
+92 | 29
+02 | 20
+
+13 | 31
+23 | 32
+33 | 33
+43 | 34
+53 | 35
+63 | 36
+73 | 37
+83 | 38
+93 | 39
+03 | 30
+
+14 | 41
+24 | 42
+34 | 43
+44 | 44
+54 | 45
+64 | 46
+74 | 47
+84 | 48
+94 | 49
+04 | 40
+
+15 | 51
+25 | 52
+35 | 53
+45 | 54
+55 | 55
+65 | 56
+75 | 57
+85 | 58
+95 | 59
+05 | 50
+
+16 | 61
+26 | 62
+36 | 63
+46 | 64
+56 | 65
+66 | 66
+76 | 67
+86 | 68
+96 | 69
+06 | 60
+
+17 | 71
+27 | 72
+37 | 73
+47 | 74
+57 | 75
+67 | 76
+77 | 77
+87 | 78
+97 | 79
+07 | 70
+
+18 | 81
+28 | 82
+38 | 83
+48 | 84
+58 | 85
+68 | 86
+78 | 87
+88 | 88
+98 | 89
+08 | 80
+
+19 | 91
+29 | 92
+39 | 93
+49 | 94
+59 | 95
+69 | 96
+79 | 97
+89 | 98
+99 | 99
+09 | 90
+
+1- | -1
+2- | -2
+3- | -3
+4- | -4
+5- | -5
+6- | -6
+7- | -7
+8- | -8
+9- | -9
+0- | -0
+
+1+ | +1
+2+ | +2
+3+ | +3
+4+ | +4
+5+ | +5
+6+ | +6
+7+ | +7
+8+ | +8
+9+ | +9
+0+ | +0
+
+1* | *1
+2* | *2
+3* | *3
+4* | *4
+5* | *5
+6* | *6
+7* | *7
+8* | *8
+9* | *9
+0* | *0
+
+1/ | /1
+2/ | /2
+3/ | /3
+4/ | /4
+5/ | /5
+6/ | /6
+7/ | /7
+8/ | /8
+9/ | /9
+0/ | /0
+
+1\ | \1
+2\ | \2
+3\ | \3
+4\ | \4
+5\ | \5
+6\ | \6
+7\ | \7
+8\ | \8
+9\ | \9
+0\ | \0
+
+1- | -1
+2- | -2
+3- | -3
+4- | -4
+5- | -5
+6- | -6
+7- | -7
+8- | -8
+9- | -9
+0- | -0
+
+1% | %1
+2% | %2
+3% | %3
+4% | %4
+5% | %5
+6% | %6
+7% | %7
+8% | %8
+9% | %9
+0% | %0
+
+1= | =1
+2= | =2
+3= | =3
+4= | =4
+5= | =5
+6= | =6
+7= | =7
+8= | =8
+9= | =9
+0= | =0
+
+(1 | 1)
+(2 | 2)
+(3 | 3)
+(4 | 4)
+(5 | 5)
+(6 | 6)
+(7 | 7)
+(8 | 8)
+(9 | 9)
+(0 | 0)
+
+,1 | 1,
+,2 | 2,
+,3 | 3,
+,4 | 4,
+,5 | 5,
+,6 | 6,
+,7 | 7,
+,8 | 8,
+,9 | 9,
+,0 | 0,
+
+.1 | 1.
+.2 | 2.
+.3 | 3.
+.4 | 4.
+.5 | 5.
+.6 | 6.
+.7 | 7.
+.8 | 8.
+.9 | 9.
+.0 | 0.
+
+[1 | 1]
+[2 | 2]
+[3 | 3]
+[4 | 4]
+[5 | 5]
+[6 | 6]
+[7 | 7]
+[8 | 8]
+[9 | 9]
+[0 | 0]
+
+{1 | 1}
+{2 | 2}
+{3 | 3}
+{4 | 4}
+{5 | 5}
+{6 | 6}
+{7 | 7}
+{8 | 8}
+{9 | 9}
+{0 | 0}
+
+:1 | 1:
+:2 | 2:
+:3 | 3:
+:4 | 4:
+:5 | 5:
+:6 | 6:
+:7 | 7:
+:8 | 8:
+:9 | 9:
+:0 | 0:
+
+;1 | 1;
+;2 | 2;
+;3 | 3;
+;4 | 4;
+;5 | 5;
+;6 | 6;
+;7 | 7;
+;8 | 8;
+;9 | 9;
+;0 | 0;
+
+<1 | 1>
+<2 | 2>
+<3 | 3>
+<4 | 4>
+<5 | 5>
+<6 | 6>
+<7 | 7>
+<8 | 8>
+<9 | 9>
+<0 | 0>
+
+?1 | 1?
+?2 | 2?
+?3 | 3?
+?4 | 4?
+?5 | 5?
+?6 | 6?
+?7 | 7?
+?8 | 8?
+?9 | 9?
+?0 | 0?
